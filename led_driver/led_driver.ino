@@ -185,7 +185,7 @@ unsigned long trial_start_time = 0;
 byte mac[] = {0x00,0xAA,0xBB,0xCC,0xDE,0x02};
 
 // Set your WS server here
-const char* WS_HOST = "10.16.101.209"; // fortyninety server
+const char* WS_HOST = "10.10.100.100"; // example server
 const uint16_t WS_PORT = 3141;
 const char* WS_PATH = "/";
 
