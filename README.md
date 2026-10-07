@@ -1,5 +1,5 @@
 
-# General
+# Docs
 - Use Jupyter notebook to design stimulus schedules
 - copy to microSD card for Teensy
 - When server starts a trial, the led_driver Teensy plays every channel's schedule from a shared trial clock and reports each output change back to the server.
