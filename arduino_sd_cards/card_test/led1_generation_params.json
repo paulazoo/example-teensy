@@ -1,1 +1,1 @@
-{"event_timesteps_filename": "led1_event_settings", "event_settings_filename": "led1_event_settings", "start_time": 550, "stim_duration": 10, "off_duration": 40, "total_stims": 5}
+{"event_timesteps_filename": "led1_event_timesteps", "event_settings_filename": "led1_event_settings", "plotting_color": "blue", "schedules": [{"start_time": 100, "stim_duration": 4, "off_duration": 12, "total_stims": 150}]}

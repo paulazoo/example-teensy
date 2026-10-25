@@ -109,7 +109,7 @@
 
 // ---------------- IO ----------------
 const int SD_CS_PIN = BUILTIN_SDCARD;   // Teensy 4.1 built-in microSD
-const int MAX_EVENTS = 100;
+const int MAX_EVENTS = 500;
 const char* LED0_EVENT_TIMESTEPS_FILENAME = "/led0_event_timesteps.txt";
 const char* LED0_EVENT_SETTINGS_FILENAME = "/led0_event_settings.txt";
 uint32_t led0_event_timesteps[MAX_EVENTS];
